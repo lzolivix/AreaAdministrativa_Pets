@@ -9,6 +9,14 @@ O projeto consiste na criação de um sistema visual que permite aos usuários r
 - Git
 - Além de um protótipo realizado no Figma.
 
+# Captura de tela 🖥
+
+
+
+![Screenshot_2](https://github.com/user-attachments/assets/6fdd26be-0db3-4972-9866-f025dfa30f26)
+
+
+
   ---
 
   - Enjoy ;)
